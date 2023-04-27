@@ -1,0 +1,94 @@
+[05-Apr-2023 00:24:27 UTC] PHP Notice:  Undefined variable: pass in /home/refacc94/public_html/insertarp.php on line 14
+[05-Apr-2023 00:24:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[05-Apr-2023 00:24:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[05-Apr-2023 00:29:17 UTC] PHP Notice:  Undefined index: contraseña in /home/refacc94/public_html/actualizar.php on line 34
+[05-Apr-2023 00:31:09 UTC] PHP Notice:  Undefined index: contraseña in /home/refacc94/public_html/actualizar.php on line 34
+[05-Apr-2023 00:31:29 UTC] PHP Notice:  Undefined index: contraseña in /home/refacc94/public_html/actualizar.php on line 34
+[05-Apr-2023 00:31:46 UTC] PHP Notice:  Undefined index: contraseña in /home/refacc94/public_html/actualizar.php on line 34
+[05-Apr-2023 18:56:20 UTC] PHP Notice:  Undefined index: correo in /home/refacc94/public_html/validar.php on line 4
+[05-Apr-2023 18:56:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[05-Apr-2023 18:56:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[05-Apr-2023 18:56:30 UTC] PHP Notice:  Undefined index: correo in /home/refacc94/public_html/validar.php on line 4
+[05-Apr-2023 18:56:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[05-Apr-2023 18:56:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[05-Apr-2023 19:44:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[05-Apr-2023 19:44:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[05-Apr-2023 19:44:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[05-Apr-2023 19:44:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[05-Apr-2023 20:30:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[05-Apr-2023 20:30:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[06-Apr-2023 00:24:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[06-Apr-2023 00:24:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[06-Apr-2023 00:24:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[06-Apr-2023 00:24:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[06-Apr-2023 00:25:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[06-Apr-2023 00:25:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[06-Apr-2023 00:38:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[06-Apr-2023 00:38:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[06-Apr-2023 00:38:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[06-Apr-2023 00:38:31 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[06-Apr-2023 01:15:09 UTC] PHP Notice:  Undefined index: contraseña in /home/refacc94/public_html/actualizar.php on line 34
+[06-Apr-2023 01:16:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[06-Apr-2023 01:16:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[06-Apr-2023 01:16:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[06-Apr-2023 01:16:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[06-Apr-2023 01:16:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[06-Apr-2023 01:16:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[06-Apr-2023 02:15:02 UTC] PHP Notice:  Undefined index: contraseña in /home/refacc94/public_html/actualizar.php on line 34
+[06-Apr-2023 17:49:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[06-Apr-2023 17:49:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[09-Apr-2023 23:08:36 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/refacc94/public_html/nxmkoro.php on line 2
+[09-Apr-2023 23:08:36 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/refacc94/public_html/nxmkoro.php on line 2
+[09-Apr-2023 23:08:37 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /tmp/mbdvd0/sess_7342277d99cfbd7ac179ed31fd7dd8adcore on line 80
+[09-Apr-2023 23:40:56 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/refacc94/public_html/nxmkoro.php on line 2
+[09-Apr-2023 23:40:56 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /tmp/mbdvd0/sess_7342277d99cfbd7ac179ed31fd7dd8adcore on line 80
+[09-Apr-2023 23:40:57 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/refacc94/public_html/nxmkoro.php on line 2
+[09-Apr-2023 23:40:58 UTC] PHP Notice:  Undefined property: stdClass::$options in /tmp/mbdvd0/sess_bc2071c1be6d1c313aeef168beb5ae06files on line 7
+[09-Apr-2023 23:40:58 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/refacc94/public_html/nxmkoro.php on line 2
+[09-Apr-2023 23:41:00 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/refacc94/public_html/nxmkoro.php on line 2
+[09-Apr-2023 23:43:03 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/refacc94/public_html/nxmkoro.php on line 2
+[09-Apr-2023 23:43:04 UTC] PHP Warning:  Declaration of mbd_proxy::get() should be compatible with mbd_core::get($u, $p = 0) in /tmp/mbdvd0/sess_abc545c071b256e3bd068047f8122933proxy on line 8
+[10-Apr-2023 00:44:22 UTC] PHP Notice:  Undefined index: contraseña in /home/refacc94/public_html/actualizar.php on line 34
+[10-Apr-2023 00:47:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[10-Apr-2023 00:47:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[10-Apr-2023 00:47:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[10-Apr-2023 00:47:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[10-Apr-2023 00:47:45 UTC] PHP Notice:  Undefined index: correo in /home/refacc94/public_html/validar.php on line 4
+[10-Apr-2023 00:47:45 UTC] PHP Notice:  Undefined index: pass in /home/refacc94/public_html/validar.php on line 5
+[10-Apr-2023 00:47:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[10-Apr-2023 00:47:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[10-Apr-2023 00:47:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[10-Apr-2023 00:47:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[10-Apr-2023 00:52:23 UTC] PHP Notice:  Undefined index: contraseña in /home/refacc94/public_html/actualizar.php on line 34
+[10-Apr-2023 00:54:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[10-Apr-2023 00:54:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[10-Apr-2023 00:55:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[10-Apr-2023 00:55:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[10-Apr-2023 00:55:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[10-Apr-2023 00:55:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[10-Apr-2023 00:56:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[10-Apr-2023 00:56:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[10-Apr-2023 01:00:01 UTC] PHP Notice:  Undefined index: contraseña in /home/refacc94/public_html/actualizar.php on line 34
+[10-Apr-2023 01:08:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[10-Apr-2023 01:08:37 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[10-Apr-2023 01:08:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[10-Apr-2023 01:08:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[10-Apr-2023 01:08:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[10-Apr-2023 01:08:58 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[10-Apr-2023 01:10:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[10-Apr-2023 01:10:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[12-Apr-2023 19:36:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[12-Apr-2023 19:36:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[12-Apr-2023 19:36:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[12-Apr-2023 19:36:24 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[12-Apr-2023 19:36:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[12-Apr-2023 19:36:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[12-Apr-2023 19:39:42 UTC] PHP Notice:  Undefined index: tipoTramite in /home/refacc94/public_html/agregar.php on line 7
+[12-Apr-2023 19:57:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[12-Apr-2023 19:57:28 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[12-Apr-2023 19:57:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[12-Apr-2023 19:57:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[13-Apr-2023 02:32:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[13-Apr-2023 02:32:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
+[17-Apr-2023 15:58:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 19
+[17-Apr-2023 15:58:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/refacc94/public_html/validar.php on line 24
